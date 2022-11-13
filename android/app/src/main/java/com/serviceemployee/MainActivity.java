@@ -1,4 +1,4 @@
-package com.invoicing;
+package com.serviceemployee;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
@@ -12,7 +12,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "Invoicing";
+    return "serviceEmployee";
   }
 
   /**

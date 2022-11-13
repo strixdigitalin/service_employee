@@ -1,4 +1,4 @@
-package com.invoicing.newarchitecture;
+package com.serviceemployee.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.invoicing.BuildConfig;
-import com.invoicing.newarchitecture.components.MainComponentsRegistry;
-import com.invoicing.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.serviceemployee.BuildConfig;
+import com.serviceemployee.newarchitecture.components.MainComponentsRegistry;
+import com.serviceemployee.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 
